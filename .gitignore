@@ -1,0 +1,4 @@
+
+*.suo
+/ipch
+/Release/Latest
