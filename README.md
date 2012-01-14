@@ -5,7 +5,7 @@ A plugin for Kart Racing Pro (http://www.kartracing-pro.com) that writes state d
 
 RELEASES:
 --------
-<a href="">1.0.0</a> - Works with KRP Beta 5
+<a href="https://github.com/OS-Chris/krp-memory-map-plugin/downloads">1.0.0</a> - Works with KRP Beta 5
 
 FEATURES:
 --------
