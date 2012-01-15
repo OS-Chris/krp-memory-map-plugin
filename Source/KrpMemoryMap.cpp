@@ -72,6 +72,7 @@ typedef struct
 
 typedef struct
 {
+	UINT8 pluginVersion;
 	UINT8 state;
 	UINT32 eventId;
 	UINT32 sessionId;

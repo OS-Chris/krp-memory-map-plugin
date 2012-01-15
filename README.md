@@ -3,6 +3,11 @@ Kart Racing Pro Memory Map
 
 A plugin for Kart Racing Pro (http://www.kartracing-pro.com) that writes state data (i.e. telemetry & scoring information) to a memory mapped file (http://en.wikipedia.org/wiki/Memory-mapped_file) making it accessable to other applications.
 
+CREDITS:
+--------
+**PiBoSo** - Kart Racing Pro & Example Plugin
+**Christian Aylward** - KRP Memory Map Plugin
+
 RELEASES:
 --------
 <a href="https://github.com/OS-Chris/krp-memory-map-plugin/downloads">1.0.0</a> - Works with KRP Beta 5
