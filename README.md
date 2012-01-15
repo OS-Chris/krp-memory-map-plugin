@@ -5,8 +5,8 @@ A plugin for Kart Racing Pro (http://www.kartracing-pro.com) that writes state d
 
 CREDITS:
 --------
-**PiBoSo** - Kart Racing Pro & Example Plugin
-**Christian Aylward** - KRP Memory Map Plugin
+   * **PiBoSo**:  Kart Racing Pro & Example Plugin
+   * **Christian Aylward**: KRP Memory Map Plugin
 
 RELEASES:
 --------
